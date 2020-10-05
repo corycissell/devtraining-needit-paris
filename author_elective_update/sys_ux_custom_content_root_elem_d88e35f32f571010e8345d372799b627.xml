@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element">
+    <sys_ux_custom_content_root_elem action="DELETE">
+        <active>false</active>
+        <applicability>single</applicability>
+        <applicable_page display_value="NeedIt">d4a8f5ff2f171010e8345d372799b6b3</applicable_page>
+        <attrs/>
+        <children/>
+        <component/>
+        <is_root>true</is_root>
+        <layout/>
+        <macroponent/>
+        <macroponent_config>{
+  "label" : ""
+}</macroponent_config>
+        <name>Welcome</name>
+        <order>0</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent/>
+        <parent_slot/>
+        <picker/>
+        <picker_condition/>
+        <placeholder display_value="Landing Page Placeholder">45a839ff2f171010e8345d372799b68f</placeholder>
+        <sys_class_name>sys_ux_custom_content_root_elem</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-23 21:23:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d88e35f32f571010e8345d372799b627</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Welcome</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_custom_content_root_elem_d88e35f32f571010e8345d372799b627</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-23 21:24:20</sys_updated_on>
+        <tree_root/>
+    </sys_ux_custom_content_root_elem>
+    <sys_variable_value action="DELETE" query="document_key=d88e35f32f571010e8345d372799b627"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>75bc90a1db0237c4f492c5970596191c</instance_id>
+        <instance_name>dev87279</instance_name>
+        <name>sys_ux_custom_content_root_elem_d88e35f32f571010e8345d372799b627</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element"><sys_ux_custom_content_root_elem action="INSERT_OR_UPDATE"><active>false</active><applicability>single</applicability><applicable_page display_value="NeedIt">d4a8f5ff2f171010e8345d372799b6b3</applicable_page><attrs/><children/><component/><is_root>true</is_root><layout/><macroponent/><macroponent_config>{
+  "label" : ""
+}</macroponent_config><name>Welcome</name><order>0</order><page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page><parent/><parent_slot/><picker/><picker_condition/><placeholder display_value="Landing Page Placeholder">45a839ff2f171010e8345d372799b68f</placeholder><sys_class_name>sys_ux_custom_content_root_elem</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-23 21:23:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d88e35f32f571010e8345d372799b627</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Welcome</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_custom_content_root_elem_d88e35f32f571010e8345d372799b627</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-23 21:24:20</sys_updated_on><tree_root/></sys_ux_custom_content_root_elem><sys_variable_value action="delete_multiple" query="document_key=d88e35f32f571010e8345d372799b627"/></record_update>]]></payload>
+        <payload_hash>-154166125</payload_hash>
+        <record_name>Welcome</record_name>
+        <reverted_from/>
+        <source>8357f0772f931010e8345d372799b6e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-23 21:25:11</sys_created_on>
+        <sys_id>73de79f32f571010e8345d372799b697</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174bcdb21090000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-23 21:25:11</sys_updated_on>
+        <type>UX Custom Content Extension</type>
+        <update_guid>17aeb5f325571010efdc9d17a497dd1c</update_guid>
+        <update_guid_history>17aeb5f325571010efdc9d17a497dd1c:-223732931,17aeb5f325571010efdc9d17a497dd1c:-223732931,9c8e35f34e57101026067b8584b3852a:-485075545</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-23 21:25:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_custom_content_root_elem">sys_ux_custom_content_root_elem</sys_db_object>
+        <sys_id>71d6de1d424846e0a0cb9abacefb4400</sys_id>
+        <sys_metadata>d88e35f32f571010e8345d372799b627</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Welcome</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_custom_content_root_elem_d88e35f32f571010e8345d372799b627</sys_update_name>
+        <sys_update_version display_value="sys_ux_custom_content_root_elem_d88e35f32f571010e8345d372799b627">73de79f32f571010e8345d372799b697</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-23 21:25:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

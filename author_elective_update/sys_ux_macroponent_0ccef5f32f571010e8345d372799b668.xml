@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="DELETE">
+        <associated_types/>
+        <component_dependencies/>
+        <composition>[ ]</composition>
+        <data/>
+        <events/>
+        <extends display_value="Landing Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <interactions/>
+        <layout>{ }</layout>
+        <macroponent_dependencies/>
+        <name>Tasks</name>
+        <props/>
+        <root_component/>
+        <root_component_config/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-23 21:24:40</sys_created_on>
+        <sys_id>0ccef5f32f571010e8345d372799b668</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_macroponent_0ccef5f32f571010e8345d372799b668</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-23 21:24:40</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>75bc90a1db0237c4f492c5970596191c</instance_id>
+        <instance_name>dev87279</instance_name>
+        <name>sys_ux_macroponent_0ccef5f32f571010e8345d372799b668</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent"><sys_ux_macroponent action="INSERT_OR_UPDATE"><associated_types/><component_dependencies/><composition>[ ]</composition><data/><events/><extends display_value="Landing Page Template">19be392623033300f4b4c50947bf65ba</extends><interactions/><layout>{ }</layout><macroponent_dependencies/><name>Tasks</name><props/><root_component/><root_component_config/><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_macroponent</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-23 21:24:40</sys_created_on><sys_id>0ccef5f32f571010e8345d372799b668</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Tasks</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_macroponent_0ccef5f32f571010e8345d372799b668</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-23 21:24:40</sys_updated_on></sys_ux_macroponent></record_update>]]></payload>
+        <payload_hash>-727552088</payload_hash>
+        <record_name>Tasks</record_name>
+        <reverted_from/>
+        <source>8357f0772f931010e8345d372799b6e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-23 21:24:40</sys_created_on>
+        <sys_id>88cef5f32f571010e8345d372799b66a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174bcdaa7840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-23 21:24:40</sys_updated_on>
+        <type>UX Macroponent Definition</type>
+        <update_guid>c0cef5f34a57101005db478977ae4c6a</update_guid>
+        <update_guid_history>c0cef5f34a57101005db478977ae4c6a:-727552088</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-23 21:25:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_macroponent">sys_ux_macroponent</sys_db_object>
+        <sys_id>768d1a9cb8064289ae5ce0b4a84cd071</sys_id>
+        <sys_metadata>0ccef5f32f571010e8345d372799b668</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_macroponent_0ccef5f32f571010e8345d372799b668</sys_update_name>
+        <sys_update_version display_value="sys_ux_macroponent_0ccef5f32f571010e8345d372799b668">88cef5f32f571010e8345d372799b66a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-23 21:25:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

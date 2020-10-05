@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content/>
+        <content_attrs/>
+        <content_component/>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>analytics-center-outline</icon>
+        <id>analytics_center</id>
+        <label>Analytics Center</label>
+        <order>1000</order>
+        <roles name="pa_viewer">a90d30b3bf101100b96dac808c073950</roles>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-23 20:57:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dca8f5ff2f171010e8345d372799b6e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>analytics_center</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_aw_module_dca8f5ff2f171010e8345d372799b6e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-23 20:57:55</sys_updated_on>
+        <toolbar_button display_value="Analytics Center Button">94a8f5ff2f171010e8345d372799b6e6</toolbar_button>
+        <type>full</type>
+        <workspace_config display_value="NeedIt">d4a8f5ff2f171010e8345d372799b6b2</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=dca8f5ff2f171010e8345d372799b6e5"/>
+</record_update>
